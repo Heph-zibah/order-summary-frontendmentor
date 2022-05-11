@@ -6,15 +6,13 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -26,11 +24,10 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Order Summary Solution URL](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/mobile-responsiveorder-summary-component-using-html-and-css-SkmzFIYU9)
+- Live Site URL: [Order Summary Live Site URL](https://order-summarycomponent-frontendmentor.netlify.app/)
 
 ## My process
 
@@ -58,11 +55,6 @@ body {
     background: url('img/pattern-background-desktop.svg') no-repeat top left/contain, hsl(225, 100%, 94%);
 }
 ```
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
 
 ## Author
 
